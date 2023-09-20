@@ -16,7 +16,7 @@
 
 
 
-<p>:books:Estou estudando: Node.js</p>
+<p>:books:Estou estudando: React </p>
 
 
 
